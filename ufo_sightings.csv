@@ -1,0 +1,151 @@
+id,date,time,city,state_region,country,latitude,longitude,shape,duration,witnesses,description
+1,2015-01-10,21:45,Cardiff,Wales,UK,51.358,-3.2534,Cigar,30 minutes,1,Witness described a metallic cigar that emitted no sound and no exhaust.
+2,2015-02-13,02:00,Area 51,NV,USA,37.1711,-115.7122,Fireball,10 minutes,4,A fireball was caught on a home security camera hovering above the yard.
+3,2015-02-18,11:30,Loch Ness,Scotland,UK,57.4038,-4.2906,Disk,30 minutes,7,Object described as a disk descended rapidly then stopped mid-air.
+4,2015-02-20,05:15,Santa Fe,NM,USA,35.745,-106.0791,Diamond,over an hour,11,Local pilot reported a diamond matching speed with aircraft before disappearing.
+5,2015-03-06,21:30,Manchester,England,UK,53.4163,-2.2611,Unknown,1 minute,3,Local pilot reported a unknown matching speed with aircraft before disappearing.
+6,2015-03-21,03:00,Berlin,Berlin,Germany,52.6639,13.3035,Rectangle,2 minutes,9,Police dispatch received several calls about a glowing rectangle near the highway.
+7,2015-04-23,17:45,Loch Ness,Scotland,UK,57.3824,-4.538,Cylinder,1 minute,4,A cylinder with pulsating lights tracked alongside our car for several minutes.
+8,2015-05-06,23:15,London,England,UK,51.6183,-0.0155,Rectangle,30 minutes,11,"Group of 6 witnesses observed a rectangle performing sharp, physics-defying turns."
+9,2015-05-15,20:15,Edinburgh,Scotland,UK,55.995,-3.1515,Orb,2 minutes,5,"Group of 8 witnesses observed a orb performing sharp, physics-defying turns."
+10,2015-06-20,10:15,Melbourne,VIC,Australia,-37.8348,144.9344,Teardrop,over an hour,8,Local pilot reported a teardrop matching speed with aircraft before disappearing.
+11,2015-06-24,01:30,Marfa,TX,USA,30.4442,-103.9254,Orb,5 minutes,3,"Bright orb appeared over the harbor, hovered, then vanished instantly."
+12,2015-06-29,21:45,Sedona,AZ,USA,34.8647,-111.8398,Oval,10 minutes,1,Object described as a oval descended rapidly then stopped mid-air.
+13,2015-08-09,12:00,Paris,IDF,France,48.9103,2.3235,Sphere,1 minute,11,A sphere was caught on a home security camera hovering above the yard.
+14,2015-08-26,01:30,Phoenix,AZ,USA,33.4286,-112.1945,Cigar,30 seconds,5,A cigar was caught on a home security camera hovering above the yard.
+15,2015-09-15,10:00,Sydney,NSW,Australia,-33.9498,151.1254,Orb,3 minutes,4,Silent orb hovering low before shooting straight up at incredible speed.
+16,2015-11-17,07:45,Anchorage,AK,USA,61.3378,-149.9473,Orb,45 seconds,9,Police dispatch received several calls about a glowing orb near the highway.
+17,2016-01-08,01:30,Nashville,TN,USA,36.0809,-86.8778,Disk,2 minutes,11,Police dispatch received several calls about a glowing disk near the highway.
+18,2016-01-11,21:15,Santa Fe,NM,USA,35.7256,-105.8222,Oval,10 minutes,2,Object described as a oval descended rapidly then stopped mid-air.
+19,2016-02-12,21:00,Chicago,IL,USA,41.8391,-87.5633,Orb,10 minutes,8,Silent orb hovering low before shooting straight up at incredible speed.
+20,2016-03-02,11:15,Miami,FL,USA,25.8373,-80.0922,Diamond,1 minute,11,"Group of 5 witnesses observed a diamond performing sharp, physics-defying turns."
+21,2016-03-04,20:30,Vancouver,BC,Canada,49.3156,-123.1615,Chevron,1 minute,6,Witness described a metallic chevron that emitted no sound and no exhaust.
+22,2016-03-05,04:45,Manchester,England,UK,53.5678,-2.3212,Cross,3 minutes,2,Silent cross hovering low before shooting straight up at incredible speed.
+23,2016-03-15,04:15,Miami,FL,USA,25.894,-80.1985,Orb,over an hour,5,Witness described a metallic orb that emitted no sound and no exhaust.
+24,2016-03-24,00:15,Paris,IDF,France,48.9101,2.3482,Chevron,10 minutes,4,Silent chevron hovering low before shooting straight up at incredible speed.
+25,2016-05-13,15:45,Reykjavik,Capital,Iceland,64.2316,-21.8325,Egg,30 minutes,11,Local pilot reported a egg matching speed with aircraft before disappearing.
+26,2016-05-14,23:30,Dublin,Leinster,Ireland,53.3458,-6.3533,Light,30 seconds,1,Silent light hovering low before shooting straight up at incredible speed.
+27,2016-07-27,21:30,Dublin,Leinster,Ireland,53.3306,-6.2543,Unknown,over an hour,6,"Bright unknown appeared over the mountain ridge, hovered, then vanished instantly."
+28,2016-09-14,18:15,Roswell,NM,USA,33.523,-104.5003,Formation,1 minute,12,Witness described a metallic formation that emitted no sound and no exhaust.
+29,2016-10-07,02:45,Loch Ness,Scotland,UK,57.4685,-4.3324,Cylinder,1 minute,9,Silent cylinder hovering low before shooting straight up at incredible speed.
+30,2016-10-18,05:00,Melbourne,VIC,Australia,-37.8206,145.0889,Egg,over an hour,2,A egg with pulsating lights tracked alongside our car for several minutes.
+31,2016-10-19,10:45,Portland,OR,USA,45.3876,-122.5939,Diamond,15 minutes,11,Multiple diamond-shaped lights moved in tight formation across the night sky.
+32,2016-11-02,13:30,Paris,IDF,France,48.9651,2.3233,Cylinder,10 minutes,4,Object described as a cylinder descended rapidly then stopped mid-air.
+33,2016-12-13,18:45,Berlin,Berlin,Germany,52.4034,13.4775,Cylinder,30 seconds,1,"Bright cylinder appeared over the town hall, hovered, then vanished instantly."
+34,2017-01-17,15:30,Vancouver,BC,Canada,49.3282,-122.9959,Sphere,30 minutes,6,Object described as a sphere descended rapidly then stopped mid-air.
+35,2017-03-17,01:45,Marfa,TX,USA,30.3572,-104.0664,Teardrop,15 minutes,2,A teardrop was caught on a home security camera hovering above the yard.
+36,2017-03-23,06:15,Nashville,TN,USA,36.2707,-86.6346,Chevron,10 minutes,11,Object described as a chevron descended rapidly then stopped mid-air.
+37,2017-06-04,12:00,Chicago,IL,USA,41.9491,-87.6801,Teardrop,45 seconds,4,"Bright teardrop appeared over the airport, hovered, then vanished instantly."
+38,2017-06-06,21:15,Cardiff,Wales,UK,51.4422,-3.1044,Diamond,45 seconds,1,Object described as a diamond descended rapidly then stopped mid-air.
+39,2017-06-19,21:00,Miami,FL,USA,25.8692,-80.2984,Fireball,2 minutes,1,Police dispatch received several calls about a glowing fireball near the highway.
+40,2017-07-21,11:45,Paris,IDF,France,48.8338,2.3843,Teardrop,1 minute,5,Local pilot reported a teardrop matching speed with aircraft before disappearing.
+41,2017-07-27,05:30,Seattle,WA,USA,47.5957,-122.4052,Oval,1 minute,10,A oval with pulsating lights tracked alongside our car for several minutes.
+42,2017-08-01,14:00,Rendlesham Forest,England,UK,52.0188,1.3384,Flash,2 minutes,4,Local pilot reported a flash matching speed with aircraft before disappearing.
+43,2017-08-02,08:15,Cape Town,WC,South Africa,-33.9912,18.4665,Formation,over an hour,5,Police dispatch received several calls about a glowing formation near the highway.
+44,2017-08-05,12:15,Area 51,NV,USA,37.1175,-115.8307,Cross,10 minutes,1,Witness described a metallic cross that emitted no sound and no exhaust.
+45,2017-09-15,23:15,Sydney,NSW,Australia,-33.9196,151.2702,Diamond,15 minutes,2,Local pilot reported a diamond matching speed with aircraft before disappearing.
+46,2017-10-19,12:00,Birmingham,England,UK,52.3652,-1.7862,Diamond,3 minutes,5,Silent diamond hovering low before shooting straight up at incredible speed.
+47,2017-12-09,19:45,Nashville,TN,USA,36.266,-86.9013,Unknown,2 minutes,3,Police dispatch received several calls about a glowing unknown near the highway.
+48,2017-12-18,17:30,Reykjavik,Capital,Iceland,64.036,-21.8197,Cross,3 minutes,9,Witness described a metallic cross that emitted no sound and no exhaust.
+49,2018-01-16,12:45,Area 51,NV,USA,37.3689,-115.8698,Flash,15 minutes,11,"Group of 2 witnesses observed a flash performing sharp, physics-defying turns."
+50,2018-01-23,02:30,Toronto,ON,Canada,43.5742,-79.3316,Formation,30 minutes,6,"Bright formation appeared over the farmland, hovered, then vanished instantly."
+51,2018-02-07,04:15,Phoenix,AZ,USA,33.5125,-112.1537,Cross,30 minutes,12,Multiple cross-shaped lights moved in tight formation across the night sky.
+52,2018-04-30,02:15,Marfa,TX,USA,30.3066,-103.8998,Orb,10 minutes,10,"Group of 4 witnesses observed a orb performing sharp, physics-defying turns."
+53,2018-06-27,06:30,Anchorage,AK,USA,61.3289,-149.8227,Sphere,1 minute,2,Witness described a metallic sphere that emitted no sound and no exhaust.
+54,2018-08-25,11:30,Sedona,AZ,USA,34.7895,-111.8807,Diamond,5 minutes,11,A diamond was caught on a home security camera hovering above the yard.
+55,2018-09-21,09:30,Sydney,NSW,Australia,-33.9514,151.104,Diamond,45 seconds,2,A diamond with pulsating lights tracked alongside our car for several minutes.
+56,2018-09-24,13:45,Marfa,TX,USA,30.1747,-103.8729,Disk,45 seconds,4,"Group of 8 witnesses observed a disk performing sharp, physics-defying turns."
+57,2018-10-24,05:00,Manchester,England,UK,53.4433,-2.3489,Egg,over an hour,7,Witness described a metallic egg that emitted no sound and no exhaust.
+58,2018-11-22,19:15,Santa Fe,NM,USA,35.7306,-106.0435,Cigar,1 minute,3,A cigar with pulsating lights tracked alongside our car for several minutes.
+59,2019-04-22,07:15,Manchester,England,UK,53.3363,-2.2999,Light,2 minutes,2,Multiple light-shaped lights moved in tight formation across the night sky.
+60,2019-05-02,12:30,Seattle,WA,USA,47.7012,-122.344,Chevron,10 minutes,2,"Bright chevron appeared over the reservoir, hovered, then vanished instantly."
+61,2019-05-12,22:45,Area 51,NV,USA,37.1585,-115.8186,Orb,45 seconds,7,A orb was caught on a home security camera hovering above the yard.
+62,2019-06-24,19:15,Cardiff,Wales,UK,51.5624,-3.0957,Egg,10 minutes,1,Police dispatch received several calls about a glowing egg near the highway.
+63,2019-07-26,08:15,Seattle,WA,USA,47.6117,-122.2953,Flash,10 minutes,8,A flash was caught on a home security camera hovering above the yard.
+64,2019-09-22,22:30,Miami,FL,USA,25.6463,-80.3097,Unknown,5 minutes,11,A unknown with pulsating lights tracked alongside our car for several minutes.
+65,2019-09-30,14:30,Edinburgh,Scotland,UK,55.844,-3.1998,Triangle,15 minutes,7,Local pilot reported a triangle matching speed with aircraft before disappearing.
+66,2019-10-17,16:45,Seattle,WA,USA,47.5852,-122.3081,Cross,2 minutes,11,A cross was caught on a home security camera hovering above the yard.
+67,2019-10-29,12:45,Birmingham,England,UK,52.3571,-1.8181,Disk,45 seconds,6,"Group of 7 witnesses observed a disk performing sharp, physics-defying turns."
+68,2020-01-15,02:30,Paris,IDF,France,48.9016,2.3336,Egg,30 seconds,10,A egg was caught on a home security camera hovering above the yard.
+69,2020-01-23,16:45,Phoenix,AZ,USA,33.5966,-112.1885,Teardrop,45 seconds,8,Object described as a teardrop descended rapidly then stopped mid-air.
+70,2020-01-27,13:00,Toronto,ON,Canada,43.5684,-79.4645,Unknown,over an hour,11,Multiple unknown-shaped lights moved in tight formation across the night sky.
+71,2020-02-15,13:30,Marfa,TX,USA,30.4153,-103.9774,Unknown,45 seconds,7,"Bright unknown appeared over the power plant, hovered, then vanished instantly."
+72,2020-03-23,10:15,Anchorage,AK,USA,61.2375,-150.0297,Unknown,over an hour,1,"Bright unknown appeared over the stadium, hovered, then vanished instantly."
+73,2020-04-07,20:30,Dublin,Leinster,Ireland,53.466,-6.2639,Unknown,5 minutes,12,Silent unknown hovering low before shooting straight up at incredible speed.
+74,2020-04-23,05:15,Paris,IDF,France,48.7815,2.233,Unknown,30 minutes,1,Witness described a metallic unknown that emitted no sound and no exhaust.
+75,2020-04-30,09:00,Santa Fe,NM,USA,35.5819,-105.8057,Egg,30 seconds,4,Witness described a metallic egg that emitted no sound and no exhaust.
+76,2020-05-08,04:45,Area 51,NV,USA,37.3113,-115.6762,Light,1 minute,10,Silent light hovering low before shooting straight up at incredible speed.
+77,2020-05-10,18:45,Manchester,England,UK,53.4305,-2.1637,Formation,5 minutes,7,A formation was caught on a home security camera hovering above the yard.
+78,2020-06-13,15:45,Miami,FL,USA,25.8124,-80.2775,Fireball,5 minutes,2,Object described as a fireball descended rapidly then stopped mid-air.
+79,2020-06-28,05:45,Miami,FL,USA,25.8222,-80.1367,Orb,30 minutes,5,Object described as a orb descended rapidly then stopped mid-air.
+80,2020-08-10,14:30,Paris,IDF,France,48.8706,2.2244,Oval,5 minutes,7,Object described as a oval descended rapidly then stopped mid-air.
+81,2020-12-07,20:15,Denver,CO,USA,39.6756,-105.0555,Rectangle,30 minutes,2,"Group of 7 witnesses observed a rectangle performing sharp, physics-defying turns."
+82,2020-12-12,04:30,Tokyo,Tokyo,Japan,35.8257,139.7991,Orb,1 minute,4,Police dispatch received several calls about a glowing orb near the highway.
+83,2020-12-25,20:30,Tokyo,Tokyo,Japan,35.825,139.659,Unknown,1 minute,5,Silent unknown hovering low before shooting straight up at incredible speed.
+84,2021-01-16,18:00,London,England,UK,51.5385,-0.27,Cylinder,2 minutes,8,Object described as a cylinder descended rapidly then stopped mid-air.
+85,2021-03-15,23:30,Reykjavik,Capital,Iceland,64.1574,-21.8639,Sphere,1 minute,4,"Bright sphere appeared over the power plant, hovered, then vanished instantly."
+86,2021-03-16,01:00,Berlin,Berlin,Germany,52.6259,13.4066,Diamond,15 minutes,3,Silent diamond hovering low before shooting straight up at incredible speed.
+87,2021-05-24,02:15,Berlin,Berlin,Germany,52.5142,13.3664,Cigar,10 minutes,8,Police dispatch received several calls about a glowing cigar near the highway.
+88,2021-06-02,07:30,Melbourne,VIC,Australia,-37.7041,145.0466,Triangle,5 minutes,11,Object described as a triangle descended rapidly then stopped mid-air.
+89,2021-06-19,21:45,London,England,UK,51.5584,-0.0205,Cross,3 minutes,1,Witness described a metallic cross that emitted no sound and no exhaust.
+90,2021-10-11,20:45,Tokyo,Tokyo,Japan,35.7915,139.6687,Cylinder,1 minute,3,"Group of 7 witnesses observed a cylinder performing sharp, physics-defying turns."
+91,2021-11-30,11:00,Area 51,NV,USA,37.3354,-115.7863,Fireball,15 minutes,4,Witness described a metallic fireball that emitted no sound and no exhaust.
+92,2021-12-05,14:00,Seattle,WA,USA,47.6425,-122.2788,Fireball,over an hour,6,"Group of 7 witnesses observed a fireball performing sharp, physics-defying turns."
+93,2021-12-17,07:15,Phoenix,AZ,USA,33.3835,-112.0248,Cross,2 minutes,1,"Group of 8 witnesses observed a cross performing sharp, physics-defying turns."
+94,2022-01-28,12:30,Rendlesham Forest,England,UK,52.129,1.4561,Cross,1 minute,4,Silent cross hovering low before shooting straight up at incredible speed.
+95,2022-02-23,03:30,Vancouver,BC,Canada,49.2449,-123.1549,Orb,2 minutes,3,Multiple orb-shaped lights moved in tight formation across the night sky.
+96,2022-04-01,20:30,Cape Town,WC,South Africa,-33.8865,18.4133,Rectangle,2 minutes,8,Object described as a rectangle descended rapidly then stopped mid-air.
+97,2022-04-09,15:00,Seattle,WA,USA,47.5021,-122.2533,Unknown,1 minute,6,Police dispatch received several calls about a glowing unknown near the highway.
+98,2022-04-26,12:30,Paris,IDF,France,48.961,2.4181,Chevron,3 minutes,3,Police dispatch received several calls about a glowing chevron near the highway.
+99,2022-05-14,04:00,Berlin,Berlin,Germany,52.5795,13.3726,Orb,30 minutes,9,Local pilot reported a orb matching speed with aircraft before disappearing.
+100,2022-05-24,21:00,Edinburgh,Scotland,UK,55.8323,-3.1167,Fireball,30 minutes,6,Police dispatch received several calls about a glowing fireball near the highway.
+101,2022-06-23,02:15,Marfa,TX,USA,30.3269,-104.0567,Diamond,15 minutes,5,Object described as a diamond descended rapidly then stopped mid-air.
+102,2022-08-20,08:30,Toronto,ON,Canada,43.7564,-79.4424,Light,3 minutes,1,Multiple light-shaped lights moved in tight formation across the night sky.
+103,2022-09-25,07:00,Area 51,NV,USA,37.2757,-115.6668,Diamond,over an hour,12,Silent diamond hovering low before shooting straight up at incredible speed.
+104,2022-10-15,17:45,Cape Town,WC,South Africa,-33.9844,18.4794,Cigar,15 minutes,2,Object described as a cigar descended rapidly then stopped mid-air.
+105,2022-11-03,00:45,Loch Ness,Scotland,UK,57.3269,-4.3251,Orb,30 seconds,7,"Bright orb appeared over the power plant, hovered, then vanished instantly."
+106,2022-11-20,03:15,Sedona,AZ,USA,34.9193,-111.6859,Triangle,2 minutes,11,Local pilot reported a triangle matching speed with aircraft before disappearing.
+107,2023-01-17,01:45,Dublin,Leinster,Ireland,53.311,-6.2773,Cylinder,10 minutes,4,Multiple cylinder-shaped lights moved in tight formation across the night sky.
+108,2023-02-02,02:00,Edinburgh,Scotland,UK,55.8038,-3.2325,Teardrop,30 minutes,8,A teardrop with pulsating lights tracked alongside our car for several minutes.
+109,2023-02-15,20:45,Vancouver,BC,Canada,49.327,-123.2669,Teardrop,2 minutes,7,A teardrop was caught on a home security camera hovering above the yard.
+110,2023-03-04,21:15,Chicago,IL,USA,41.9775,-87.5485,Sphere,45 seconds,10,A sphere was caught on a home security camera hovering above the yard.
+111,2023-04-12,15:30,Phoenix,AZ,USA,33.3867,-112.1027,Cylinder,30 minutes,12,Local pilot reported a cylinder matching speed with aircraft before disappearing.
+112,2023-11-07,00:30,Sedona,AZ,USA,34.9226,-111.7087,Formation,3 minutes,2,Police dispatch received several calls about a glowing formation near the highway.
+113,2023-11-16,20:45,Rendlesham Forest,England,UK,52.2199,1.5519,Cross,2 minutes,5,"Bright cross appeared over the power plant, hovered, then vanished instantly."
+114,2023-12-16,11:15,Portland,OR,USA,45.4392,-122.66,Diamond,2 minutes,9,Object described as a diamond descended rapidly then stopped mid-air.
+115,2023-12-25,16:00,Santa Fe,NM,USA,35.7439,-105.9792,Teardrop,30 minutes,5,"Group of 3 witnesses observed a teardrop performing sharp, physics-defying turns."
+116,2024-02-09,17:00,Seattle,WA,USA,47.5823,-122.2,Sphere,10 minutes,5,Object described as a sphere descended rapidly then stopped mid-air.
+117,2024-04-29,01:15,Portland,OR,USA,45.5771,-122.8091,Teardrop,30 minutes,7,Multiple teardrop-shaped lights moved in tight formation across the night sky.
+118,2024-05-29,07:45,Phoenix,AZ,USA,33.364,-112.0724,Disk,over an hour,5,Police dispatch received several calls about a glowing disk near the highway.
+119,2024-06-20,19:00,Toronto,ON,Canada,43.5284,-79.4829,Cigar,30 minutes,7,A cigar with pulsating lights tracked alongside our car for several minutes.
+120,2024-06-28,06:15,Cape Town,WC,South Africa,-34.0372,18.472,Unknown,10 minutes,7,A unknown with pulsating lights tracked alongside our car for several minutes.
+121,2024-08-28,05:15,Cape Town,WC,South Africa,-34.0337,18.3508,Cross,30 minutes,9,"Group of 2 witnesses observed a cross performing sharp, physics-defying turns."
+122,2024-10-10,15:00,Sydney,NSW,Australia,-33.7945,151.2231,Cylinder,30 minutes,6,A cylinder was caught on a home security camera hovering above the yard.
+123,2024-10-13,00:45,Dublin,Leinster,Ireland,53.2688,-6.2427,Oval,1 minute,6,"Group of 5 witnesses observed a oval performing sharp, physics-defying turns."
+124,2024-10-26,02:00,Cardiff,Wales,UK,51.5382,-3.1192,Diamond,30 minutes,12,Police dispatch received several calls about a glowing diamond near the highway.
+125,2025-02-07,22:45,Phoenix,AZ,USA,33.3455,-112.1719,Orb,10 minutes,1,A orb with pulsating lights tracked alongside our car for several minutes.
+126,2025-02-19,16:15,Reykjavik,Capital,Iceland,64.0157,-21.9581,Oval,over an hour,1,Police dispatch received several calls about a glowing oval near the highway.
+127,2025-03-05,16:45,Berlin,Berlin,Germany,52.5456,13.4686,Formation,1 minute,12,Object described as a formation descended rapidly then stopped mid-air.
+128,2025-03-16,09:45,Sedona,AZ,USA,34.84,-111.8934,Formation,3 minutes,11,Silent formation hovering low before shooting straight up at incredible speed.
+129,2025-04-03,10:00,Paris,IDF,France,48.9215,2.2738,Formation,30 seconds,8,A formation with pulsating lights tracked alongside our car for several minutes.
+130,2025-04-22,08:00,Tokyo,Tokyo,Japan,35.7311,139.6496,Fireball,45 seconds,5,"Bright fireball appeared over the forest, hovered, then vanished instantly."
+131,2025-05-17,07:00,Denver,CO,USA,39.6467,-104.9794,Fireball,45 seconds,9,Witness described a metallic fireball that emitted no sound and no exhaust.
+132,2025-06-02,01:15,Denver,CO,USA,39.6335,-104.934,Cigar,1 minute,8,Witness described a metallic cigar that emitted no sound and no exhaust.
+133,2025-06-03,18:45,London,England,UK,51.6129,-0.0286,Orb,15 minutes,1,Local pilot reported a orb matching speed with aircraft before disappearing.
+134,2025-06-03,22:45,Cape Town,WC,South Africa,-33.9751,18.2874,Unknown,2 minutes,3,Multiple unknown-shaped lights moved in tight formation across the night sky.
+135,2025-07-09,06:30,Nashville,TN,USA,36.2384,-86.6965,Cylinder,over an hour,8,Police dispatch received several calls about a glowing cylinder near the highway.
+136,2025-08-21,02:00,Edinburgh,Scotland,UK,56.0222,-3.2445,Cross,1 minute,2,Local pilot reported a cross matching speed with aircraft before disappearing.
+137,2025-09-05,20:45,Vancouver,BC,Canada,49.4171,-123.245,Teardrop,45 seconds,1,A teardrop was caught on a home security camera hovering above the yard.
+138,2025-09-26,14:30,Sedona,AZ,USA,34.9455,-111.8802,Disk,2 minutes,1,Object described as a disk descended rapidly then stopped mid-air.
+139,2025-11-04,14:45,Chicago,IL,USA,41.9482,-87.4902,Diamond,over an hour,5,Object described as a diamond descended rapidly then stopped mid-air.
+140,2025-11-13,20:15,Sedona,AZ,USA,34.8621,-111.8332,Cylinder,10 minutes,8,Local pilot reported a cylinder matching speed with aircraft before disappearing.
+141,2025-12-22,19:45,Reykjavik,Capital,Iceland,64.2055,-21.9305,Fireball,10 minutes,1,Witness described a metallic fireball that emitted no sound and no exhaust.
+142,2025-12-25,04:45,Rendlesham Forest,England,UK,52.1733,1.3692,Disk,3 minutes,8,Local pilot reported a disk matching speed with aircraft before disappearing.
+143,2026-02-09,01:15,Area 51,NV,USA,37.1805,-115.8192,Formation,3 minutes,10,Witness described a metallic formation that emitted no sound and no exhaust.
+144,2026-03-31,04:00,Anchorage,AK,USA,61.2898,-150.038,Light,45 seconds,2,Multiple light-shaped lights moved in tight formation across the night sky.
+145,2026-04-28,13:45,Portland,OR,USA,45.6056,-122.6281,Unknown,2 minutes,12,Object described as a unknown descended rapidly then stopped mid-air.
+146,2026-05-16,12:45,Area 51,NV,USA,37.1021,-115.7116,Orb,over an hour,9,"Group of 6 witnesses observed a orb performing sharp, physics-defying turns."
+147,2026-05-19,02:30,Phoenix,AZ,USA,33.4391,-112.0346,Diamond,45 seconds,8,Object described as a diamond descended rapidly then stopped mid-air.
+148,2026-05-21,03:30,Edinburgh,Scotland,UK,55.8507,-3.3373,Diamond,3 minutes,10,Police dispatch received several calls about a glowing diamond near the highway.
+149,2026-05-31,22:30,Santa Fe,NM,USA,35.8109,-105.9494,Cigar,30 minutes,8,A cigar with pulsating lights tracked alongside our car for several minutes.
+150,2026-06-09,06:30,Reykjavik,Capital,Iceland,64.0985,-21.9927,Sphere,15 minutes,12,"Group of 6 witnesses observed a sphere performing sharp, physics-defying turns."
