@@ -77,7 +77,7 @@ In the EC2 console, edit the instance's Security Group to add an **Inbound Rule*
 
 Screenshot of the `/sightings` endpoint running successfully in the cloud:
 
-![EC2 screenshot](ec2_screenshot.png)
+![EC2 screenshot](ec2_screenshot.PNG)
 
 ## Repository
 
