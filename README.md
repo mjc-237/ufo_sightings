@@ -25,7 +25,7 @@ sudo apt upgrade -y
 ### 2. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/ufo_sightings.git
+git clone https://github.com/mjc-237/ufo_sightings.git
 cd ufo_sightings
 ```
 
@@ -81,7 +81,7 @@ Screenshot of the `/sightings` endpoint running successfully in the cloud:
 
 ## Repository
 
-`https://github.com/<your-username>/ufo_sightings`http://<your-ec2-public-ip>:5000/sightings
+`https://github.com/mjc-237/ufo_sightings`http://52.58.205.93:5000/sightings
 ```
 
 With the app running and the port open, visit the following in a browser (replace with your instance's public IP):
